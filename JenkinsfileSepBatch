@@ -1,4 +1,4 @@
-node('wallmart-node'){
+/*node('wallmart-node'){
 
 
 //echo "GitHub BranhName ${env.BRANCH_NAME}"
@@ -49,4 +49,4 @@ Mithun Software Solutions,
 
 */
 
-}
+}*/
